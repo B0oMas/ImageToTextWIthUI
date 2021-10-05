@@ -1,0 +1,28 @@
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\bin\Debug\OcrData\Lithuanian.ocrdata
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\bin\Debug\Image to Text.exe.config
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\bin\Debug\Image to Text.exe
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\bin\Debug\Image to Text.pdb
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\bin\Debug\IronOcr.dll
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\bin\Debug\IronOcr.xml
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image to Text.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image_to_Text.Form1.resources
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image_to_Text.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image to Text.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image to Text.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image to Text.csproj.CopyComplete
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image to Text.exe
+C:\Users\Lukas\Desktop\Image to Text\Image to Text\obj\Debug\Image to Text.pdb
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\bin\Debug\OcrData\Lithuanian.ocrdata
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\bin\Debug\Image to Text.exe.config
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\bin\Debug\Image to Text.exe
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\bin\Debug\Image to Text.pdb
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\bin\Debug\IronOcr.dll
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\bin\Debug\IronOcr.xml
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image to Text.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image_to_Text.Form1.resources
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image_to_Text.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image to Text.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image to Text.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image to Text.csproj.CopyComplete
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image to Text.exe
+C:\Users\Lukas\Desktop\Image to Text with ui\Image to Text\obj\Debug\Image to Text.pdb
